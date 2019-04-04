@@ -1,19 +1,14 @@
-To submit your skill, replace this file with text from 
-https://rawgit.com/MycroftAI/mycroft-skills/master/meta_editor.html
+# <img src='https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/robot.svg' card_color='#40DBB0' width='50' height='50' style='vertical-align:bottom'/>
+Soundcloud Player
+Play music from soundcloud.com
 
-
-## YOUR SKILL NAME
-One line description of the skill
-
-## Description 
-A more verbose description, including any extra instructions or
-information that didn't fit in the one line.
+## About 
+A simple music player, playing trending music on soundcloud.com.
 
 ## Examples 
-* "Hello world"
-* "Greetings planet earth"
-* "Count up"
-* "Count down"
+* "Play Soundcloud"
+* "Soundcloud Music"
 
 ## Credits 
-Your name
+Vladimir Bohinc @vbohinc
+
